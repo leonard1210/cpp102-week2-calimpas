@@ -1,9 +1,32 @@
-Step 1 : START
-Step 2 : num1
-Step 3 : num2
-Step 4 : Compute Sum = num1 + num2
-Step 5 : Display Sum
-Step 6 : End
+Activity Laboratory 1 : Add Two Numbers
+
+Algorithm
+Step 1: Start.
+Step 2: Ask the user to enter the first number. Store it as num1.
+Step 3: Ask the user to enter the second number. Store it as num2.
+Step 4: Compute sum = num1 + num2.
+Step 5: Display sum.
+Step 6: End.
+
+Activity Laboratory 2 : Compute the Average of Three Grades
+
+Algorithm
+Step 1: Start.
+Step 2: Ask the user to enter the number. Store it as Q.score1.
+Step 3: Ask the user to enter the second quiz score. Store it as Q.score2.
+Step 4: Ask the user to enter the third quiz score. store it as Q.score3.
+Step 5: Compute sum = Q.score1 + Q.score2 + Q.score3.
+Step 6: Display average.
+Step 7: End.
 
 
+Activity Laboraty 3 : Determine if a Number is Even or Odd.
+
+Algorithm
+Step 1: Start.
+Step 2: Ask the user to enter the number. Store it as number.
+Step 3: Check if number MOD 2 equal 0.
+Step 4: If yes, DISPLAY "Even".
+Step 5: If no, DISPLAY "Odd".
+Step 6: End.
 
