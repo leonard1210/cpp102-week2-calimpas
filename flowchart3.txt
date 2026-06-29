@@ -1,0 +1,6 @@
+flowchart TD
+    A([Start]) --> B[/Input number /]
+    B --> C[IF number MOD 2 = 0 THEN]
+    C --> D[/Display Even/]
+    C --> E[/Display Odd/]
+    D --> F([End])

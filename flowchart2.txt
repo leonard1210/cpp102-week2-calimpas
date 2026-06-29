@@ -1,0 +1,5 @@
+lowchart TD
+    A([Start]) --> B[/Input score1, score2, score3/]
+    B --> C[Calculate average = score1 + score2 + score3 / 3]
+    C --> D[/Display average/]
+    D --> F([End])
